@@ -12,7 +12,7 @@ const exp = [
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Student Developer in 2025",
     cardImage: "https://images.app.goo.gl/zS5yGf4WCWA6aZhd8",
     place: "Google Summer Of Code",
     time: "(Mar - Aug, 2019)",
