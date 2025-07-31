@@ -68,8 +68,8 @@ const volunteershipcards = [
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "StudentCode-in 2025",
+    cardImage: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBGWdW8PF-vfg75_yXVS0pZk6hOxx8etK33_a7jKrqT4I2XRFQ1EhOiNIo_eg3SsH_vFvURKb3OjI2l04srKxXhw",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
